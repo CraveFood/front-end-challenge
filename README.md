@@ -6,6 +6,7 @@ Mrs. Peppers wants us to help him, so we need to design a way in which he can pa
 
 Our challenge is to show how he can layout the box position to fit everything, like this:
 
+```
            300
 x-------------------------x
 |         |               |
@@ -14,6 +15,8 @@ x-------------------------x
 |         |     42x52     |
 |         |               | 
 x-------------------------x
+
+```
 
 One possible way of solving this would be putting one box vertically and the other two horizontally.
 
