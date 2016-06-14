@@ -1,6 +1,6 @@
 # Front end challenge
 
-Mrs. Peppers produces delicious mangos in his farm and all of his clients love him. One day Mrs. Elephant called him at night and desesperated asked him to send the maximum number of mangos he could, because he was going to have a big party next day!
+Mrs. Peppers produces delicious mangos in his farm and all of his clients love him. One day Mrs. Elephant called him at night and desperately asked him to send the maximum number of mangos he could, because he was going to have a big party next day!
 
 Mrs. Peppers wants us to help him, so we need to design a way in which he can package almost everything in his truck. So imagine that his truck is **300x192cm** and his boxes are **54x42cm**, so the maximum he can put on his truck are 25 boxes.
 
